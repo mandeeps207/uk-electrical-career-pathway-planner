@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://elec.training/uk-electrical-career-pathway-planner/sitemap.xml
